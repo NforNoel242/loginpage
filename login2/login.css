@@ -1,0 +1,27 @@
+div{
+	border-style: solid;
+	margin-top: 100px;
+	margin-bottom: 100px;
+	margin-left: 30%;
+	margin-right: 30%;
+	background-color: white;
+	text-align: center;
+}
+body{
+	background-color: turquoise;
+
+}
+.login{ background-color: darkcyan; color: white; }
+.Register{ background-color: darkcyan;  color: white; width: 30%;}
+.facebook{ background-color: navy; color: white; width: 30%; }
+.google { background-color: red;color: white;width: 30%; }
+.twitter{ background-color: deepskyblue; color: white;width: 30%;}
+
+
+.maininput{width: 60%;}
+
+a {text-decoration: none;   color: red;}
+  
+.section{
+	background-color: #eee;
+}
